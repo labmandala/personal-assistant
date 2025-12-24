@@ -1,3 +1,9 @@
+# Personal Assistant
+
+A dynamic personal assistant app built with Python to manage contacts, lists and events.
+
+<img src="personal-assistant.png" />
+
 # Install Python
 
 Check to see if you already have Python installed on your system by running:
