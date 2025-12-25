@@ -2,7 +2,7 @@
 
 A dynamic personal assistant app built with Python to manage contacts, lists and events.
 
-<img src="personal-assistant.png" />
+<img src="assistant-mockup.jpg" />
 
 # Install Python
 
